@@ -7,7 +7,6 @@ I am an electronics and embedded systems developer specializing in bare-metal mi
 ### 🚀 What I'm Doing Currently
 * 💻 Working as an Embedded Systems Development Intern at **Virtual Tech Services**.
 * 🧠 Developing edge-AI applications on ESP32, focusing on local DSP and TinyML architectures.
-* 🔭 Exploring custom Android ROM modifications and mobile device firmware (PixelOS, Infinity-X, Magisk).
 
 ### 🛠️ Technical Stack
 * **Microcontrollers & Hardware:** ESP32, ESP8266, 8051, ARM architectures
